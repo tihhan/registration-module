@@ -1,0 +1,15 @@
+<resources>
+
+
+
+
+    <string name="welcome">Welcome to SmartFridge</string>
+    <string name="enter_login">Your login</string>
+    <string name="enter_password">Password</string>
+    <string name="log_in_btn">Log In</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="app_logo">App logo</string>
+    <string name="registration">Registration</string>
+    <string name="enter_email">Your E-mail</string>
+</resources>

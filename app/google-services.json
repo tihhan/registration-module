@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241614478123",
+    "project_id": "clonechat-c622c",
+    "storage_bucket": "clonechat-c622c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241614478123:android:917d7586cc130e38e2036e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241614478123-k5domuvfvi69veqjs3o3duf04tvp2g6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTq2hzIIWEBA1O_ZWZThD5QYk_sfAx2qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241614478123-k5domuvfvi69veqjs3o3duf04tvp2g6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
